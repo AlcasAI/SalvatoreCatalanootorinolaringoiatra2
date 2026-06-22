@@ -1,0 +1,19 @@
+{
+  "name": "Dr. Salvatore Catalano — Otorinolaringoiatra",
+  "short_name": "Dr. Catalano ORL",
+  "description": "Otorinolaringoiatra a Domodossola (VCO). Visite ORL, chirurgia endoscopica naso-sinusale, patologie della voce e apnee notturne.",
+  "lang": "it-IT",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#1C4B3C",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
