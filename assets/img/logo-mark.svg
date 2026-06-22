@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 40" role="img" aria-label="Salvatore Catalano">
+  <g fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round">
+    <path d="M17.1 11.6 A12 12 0 0 1 17.1 28.4"></path>
+    <path d="M22.4 7.4 A18 18 0 0 1 22.4 32.6"></path>
+    <path d="M27.7 3.2 A24 24 0 0 1 27.7 36.8"></path>
+  </g>
+  <circle cx="11" cy="20" r="3.4" fill="currentColor"></circle>
+</svg>
