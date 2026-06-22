@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alcasai.github.io/salvatorecatalanootorinolaringoiatra2/sitemap.xml
